@@ -20,7 +20,7 @@
     <body>
         <h1>Mina Armanios Blog</h1>
         <h2>Post Page</h2>
-        <a href="post-submission.html">Post Submission</a>
+        <a href="post-submission.php">Post Submission</a>
 
 <main>
     <h1>Form:</h1>

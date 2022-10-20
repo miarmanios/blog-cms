@@ -21,6 +21,6 @@
     <body>
         <h1>Mina Armanios Blog</h1>
         <h2>Home Page</h2>
-        <a href="post-submission.html">Post Submission</a>
+        <a href="post-submission.php">Post Submission</a>
     </body>
 </html>
